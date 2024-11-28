@@ -1,3 +1,4 @@
+#2R/Ladder DAC
 import math
 
 VoSum,Vo = 0,0
